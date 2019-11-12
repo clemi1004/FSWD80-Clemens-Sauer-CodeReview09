@@ -1,0 +1,11 @@
+pk_billing_id;discount;extra_costs;type_of_payment
+1;0;0;cash
+2;0;10;cash
+3;0;20;credit_card
+4;0;30;credit_card
+5;0.2;150;debit_card
+6;0.1;100;debit_card
+7;0.05;20;bank_transfer
+8;0;0;cash
+9;0.05;20;credit_card
+10;0;0;debit_card

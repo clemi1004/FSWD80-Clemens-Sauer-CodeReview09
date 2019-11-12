@@ -1,0 +1,25 @@
+normalization:
+
+https://www.youtube.com/watch?v=UrYLYV7WSHM
+
+Computed Column:
+
+https://www.youtube.com/watch?v=rGCidm99POg
+
+Convert .csv to sql:
+
+http://www.convertcsv.com/csv-to-sql.htm
+
+Dummydata:
+
+https://mockaroo.com/
+
+Foreign_key 1:
+
+ALTER TABLE driving_license
+ADD fk_customer integer,
+ADD fk_internal_data integer;
+
+Foreign key:
+
+https://www.fpmgonline.com/mysql_alter_add_foreign_key.php

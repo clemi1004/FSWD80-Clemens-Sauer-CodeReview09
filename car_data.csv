@@ -1,0 +1,11 @@
+pk_car_data_id;type_of_car;name;ps;number_of_seats;configuration;price_per_day
+1;skoda;octavia;100;5;normal;100
+2;audi;a6;120;5;normal;200
+3;bmw;x5;160;5;normal;100
+4;bmw;x2;90;2;normal;100
+5;vw;golf;90;5;normal;50
+6;toyota;super;75;5;sport;80
+7;toyota;best;120;6;sport;90
+8;ford;mustang;180;2;sport;120
+9;nissan;qashqai;120;5;normal;120
+10;ferrari;spider;320;2;sport;300
